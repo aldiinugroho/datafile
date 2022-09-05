@@ -1,0 +1,23 @@
+[
+  {
+    "merek": "honda",
+    "detail_merek": "Honda BRV E CVT AT Tahun 2017 plat B",
+    "tahun": "2017",
+    "plat": "B",
+    "pajak": {
+      "bulan": "06",
+      "tahun": "2023"
+    },
+    "deskripsi": "<p>Bismillah<br />Dijual<br />Honda BRV E CVT AT Tahun 2017 plat B Warna Abu-Abu Bulan Metalik Pajak 06 2023 KM 79rb on going</p>",
+    "image": [
+      {
+        "url": ""
+      }
+    ],
+    "video": [
+      {
+        "url": ""
+      }
+    ]
+  }
+]
