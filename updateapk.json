@@ -1,4 +1,4 @@
 {
-  "forceupdate": true,
-  "softupdate": true
+  "forceupdate": "false",
+  "softupdate": "true"
 }
